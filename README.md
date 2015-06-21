@@ -1,4 +1,5 @@
 Following steps were performed to transform and clean the data -
+
 1. Include supporting libraries using the library() function.
 	- plyr
 	- data.table
